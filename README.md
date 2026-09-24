@@ -6,7 +6,7 @@
 
 ```text
 cohorts/
-├─ 01-first-cohort/
+├─ 01-cohort/
 │  ├─ 01-learning-resources/
 │  ├─ 02-weekly-tasks/
 │  ├─ 03-technical-sharing/
@@ -27,4 +27,4 @@ cohorts/
 
 ## 各期内容
 
-- [第一期](./cohorts/01-first-cohort/README.md)
+- [第一期](./cohorts/01-cohort/README.md)
